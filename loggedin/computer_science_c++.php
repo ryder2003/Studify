@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
 integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 <link rel="stylesheet" href="../styleloggedin.css">
-<title>Learn Academy</title>
+<title>Studify</title>
 </head>
 
  <body>
@@ -41,7 +41,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
         <p class="card-text" >C++ Programming</p>
 
         <p class="card-text details" >Language : English</p>
-        <p class="card-text details" >Tutor : FormationVidéo</p>
+        <p class="card-text details" >Tutor : Bro Code</p>
 
       </div>
       <a href="computer_science/c++/description_formationvideo.php" class="btn btn-primary" target="_blank">View Description !</a><br>
