@@ -127,19 +127,16 @@
               <div class="mb-4 text-center">
                 <img src="../../../images/jasonchampagne.jpg" alt="Image" class="w-25 rounded-circle mb-4">
                 <h3 class="h5 text-black mb-4">Jason Champagne</h3>
-                <p> SITE PERSONNEL : https://jasonchampagne.fr
-                    FormationVidéo est la chaîne YouTube de celles et ceux qui sont curieux, aiment apprendre
-                    et veulent réaliser leurs rêves d'enfants.
-                    À travers plusieurs vidéos, j'essaie de vous donner mon savoir et de partager mes
-                    compétences pour apprendre tous ensemble sur divers thèmes : informatique, langues vivantes,
-                    dessin, musique, etc.
-                    J'espère que vous serez de plus en plus nombreux à rejoindre la communauté, à partager avec
-                    les internautes et à éprouver un réel plaisir à découvrir de nouveaux horizons. Cette
-                    chaîne, c'est aussi un combat contre les préjugés et les jugements pessimistes d'une
-                    “élite” : être talentueux dans ce que l'on fait n'est pas inné. Le véritable talent,
-                    c'est celui que l'on acquiert par passion, que l'on nourrie chaque jour, et que l'on
-                    transmet à son prochain.
-                    Alors vous aussi, soyez acteur du partage pour tous - abonnez-vous ! 🙂</p>
+                <p> PERSONAL WEBSITE: https://jasonchampagne.fr FormationVideo is the YouTube channel for those
+                   who are curious and love to learn and want to make their childhood dreams come true. Through 
+                   several videos, I try to give you my knowledge and share my Skills to learn together on various
+                   topics: computer science, modern languages, drawing, music, etc. I hope that more and more of
+                   you will join the community, to share with Internet users and to experience a real pleasure
+                   in discovering new horizons. This It is also a fight against the prejudices and pessimistic
+                   judgments of a "Elite": being talented at what you do is not innate. True talent, it is the
+                   one that we acquire out of passion, that we nourish every day, and that we transmits to one's
+                   neighbor. So you too can be an actor in sharing for all - subscribe! 🙂
+</p>
               </div>
             </div>
           </div>
