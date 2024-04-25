@@ -50,10 +50,10 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_formationvideo.php?video=1">&#10170  C++ tutorial for Beginners</a><br>
-        <a href="actualvideocontent_formationvideo.php?video=2">&#10170  Variables and Basic data types</a><br>
-        <a href="actualvideocontent_formationvideo.php?video=3">&#10170  What is a const</a><br>
-        <a href="actualvideocontent_formationvideo.php?video=5">&#10170  What are namespaces</a><br>
+        <a href="https://youtu.be/S3nx34WFXjI?si=ShPCrAzUEUuIG_Te">&#10170  C++ tutorial for Beginners</a><br>
+        <a href="https://youtu.be/4psGUiKacPQ?si=OA_960MhSD722Pq4">&#10170  Variables and Basic data types</a><br>
+        <a href="https://youtu.be/MwQEaCsS6UM?si=PHIlal9BXKEU0qGA">&#10170  What is a const</a><br>
+        <a href="https://youtu.be/2lcIKzFHjSM?si=BBepxFWiNjp4FdkL">&#10170  What are namespaces</a><br>
       </div>
     </div>
   </div>
