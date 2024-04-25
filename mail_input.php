@@ -36,7 +36,7 @@
 
       <div class="container-fluid">
         <div class="d-flex align-items-center">
-          <div class="site-logo mr-auto w-25"><a href="index.php">LAcademy</a></div>
+          <div class="site-logo mr-auto w-25"><a href="index.php">Studify</a></div>
 
           <div class="mx-auto text-center">
             <nav class="site-navigation position-relative text-right" role="navigation">

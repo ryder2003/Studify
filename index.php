@@ -422,7 +422,7 @@
             <img src="images/person_4New.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle">
             <h3 class="mb-4">Chirag Jain</h3>
             <blockquote>
-              <p>&ldquo; I was struggling with my studies but it all changed when I learned about LAcademy, I'm now a senior software engineer making a 6 figure salary per year.This website is a real game changer. &rdquo;</p>
+              <p>&ldquo; I was struggling with my studies but it all changed when I learned about Studify, I'm now a senior software engineer making a 6 figure salary per year.This website is a real game changer. &rdquo;</p>
             </blockquote>
           </div>
         </div>
@@ -523,7 +523,7 @@
                   $msgClass = 'alert-danger';
                 } else {
                   // Passed
-                  $toEmail = 'support@lacademy.com';
+                  $toEmail = 'support@Studify.com';
                   $body = $subject.'<h4>Name</h4><p>'.$name.'</p>
                     <h4>Email</h4><p>'.$email.'</p>
                     <h4>Message</h4><p>'.$message.'</p>';
@@ -602,7 +602,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <h3>About LAcademy</h3>
+            <h3>About Studify</h3>
             <p>An E-Learning platform rich of resources, We make learning easy and simple for Everyone.</p>
           </div>
 
@@ -618,7 +618,7 @@
 
           <div class="col-md-4">
             <h3>Subscribe</h3>
-            <p>Keep yourself up to date and receive all kind of news about LAcademy.</p>
+            <p>Keep yourself up to date and receive all kind of news about Studify.</p>
             <form action="https://mailchi.mp/064deb47eeaa/lacdemy" target="_blank" class="footer-subscribe">
               <div class="d-flex mb-5">
 
