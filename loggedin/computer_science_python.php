@@ -48,17 +48,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       <a href="computer_science/python/computer_science_python_telusko.php" class="btn btn-primary">View Course !</a>
   </div>
 
-  <div class="card" >
-      <img src="img8.png" class="card-img-top" alt="..." >
-      <div class="card-body">
-        <p class="card-text" >Python Tutorials Arabic|| دورة برمجة بايثون</p>
-
-        <p class="card-text details" >Language : Arabic</p>
-        <p class="card-text details" >Tutor : TheNewBaghdad </p>
-      </div>
-      <a href="computer_science/python/description_thenewbaghdad.php" class="btn btn-primary" target="_blank">View Description !</a><br>
-      <a href="computer_science/python/computer_science_python_thenewbaghdad.php" class="btn btn-primary">View Course !</a>
-  </div>
 
 </div>
 
