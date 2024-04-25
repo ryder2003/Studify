@@ -12,7 +12,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 <link rel="stylesheet" href="../../../style.css">
 <link rel="stylesheet" href="accordionstyle.css">
 
-<title>Learn Academy</title>
+<title>Studify</title>
 </head>
 
  <body>
@@ -36,11 +36,8 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
   </ol>
 </nav>
-<!-- the actual content of this course ( apprendre a programmer avec java dominique liard )
-     liste des chapitres-->
 
   <div class="accordion" id="accordionExample">
-	<!-- Détails chapitre 0 -->
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
@@ -52,12 +49,11 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=1">&#10170  Introduction to JAVA language</a><br>
+        <a href="https://youtu.be/yRpLlJmRo2w?si=ZVl4SV3DZXgD0Cm0">&#10170  Introduction to JAVA language</a><br>
 
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 1 -->
   <div class="card">
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
@@ -68,12 +64,11 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=4">&#10170  Variables in JAVA</a><br>
-        <a href="actualvideocontent_dominique.php?video=8">&#10170  Conditional Satements (if else, switch break)</a><br>
+        <a href="https://youtu.be/LusTv0RlnSU?si=jdEvVAX_vNgUg8EX">&#10170  Variables in JAVA</a><br>
+        <a href="https://youtu.be/I5srDu75h_M?si=RHxsW-NcVCsIwsN8">&#10170  Conditional Satements (if else, switch break)</a><br>
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 2 -->
   <div class="card">
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
@@ -84,15 +79,14 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=5">&#10170  Functions and Methods</a><br>
-        <a href="actualvideocontent_dominique.php?video=6">&#10170  Functions in JAVA</a><br>
-        <a href="actualvideocontent_dominique.php?video=16">&#10170  Arrays Introduction</a><br>
-        <a href="actualvideocontent_dominique.php?video=16">&#10170  2D Arrays</a><br>
+        <a href="https://youtu.be/qcSz4ef9UHA?si=SQ2GhvhppToYLVLA">&#10170  Functions and Methods</a><br>
+        <a href="https://youtu.be/pFPZ83mgH00?si=yaJHAdySVbihyFSz">&#10170  Functions in JAVA</a><br>
+        <a href="https://youtu.be/NTHVTY6w2Co?si=Cb22TKf6p0SJhdSU">&#10170  Arrays Introduction</a><br>
+        <a href="https://youtu.be/18Zt5I4S45o?si=_CAVS4qIIKl8Q-Yw">&#10170  2D Arrays</a><br>
 
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 3 -->
   <div class="card">
     <div class="card-header" id="headingFour">
       <h2 class="mb-0">
@@ -103,13 +97,12 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=18">&#10170  Bubble Sort, Selection Sort, and Insertion Sort</a><br>
-        <a href="actualvideocontent_dominique.php?video=19">&#10170  Merge Sort</a><br>
-        <a href="actualvideocontent_dominique.php?video=19">&#10170  Quick Sort</a><br>
+        <a href="https://youtu.be/PkJIc5tBRUE?si=3qVph9TSvYS451cN">&#10170  Bubble Sort, Selection Sort, and Insertion Sort</a><br>
+        <a href="https://youtu.be/unxAnJBy12Q?si=zmAU5rD1qWzqPj4P">&#10170  Merge Sort</a><br>
+        <a href="https://youtu.be/QXum8HQd_l4?si=hzNqQPv6oQBTX2cs">&#10170  Quick Sort</a><br>
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 4 -->
   <div class="card">
     <div class="card-header" id="headingFive">
       <h2 class="mb-0">
@@ -120,8 +113,8 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=20">&#10170  Recursion in JAVA</a><br>
-        <a href="actualvideocontent_dominique.php?video=21">&#10170  Questions on Recursion in JAVA</a><br>
+        <a href="https://youtu.be/u-HgzgYe8KA?si=r1525fEfCrJj0vAe">&#10170  Recursion in JAVA</a><br>
+        <a href="https://youtu.be/xZykmhcWGuY?si=sdkwYHNjSizwTXQk">&#10170  Questions on Recursion in JAVA</a><br>
       </div>
     </div>
   </div>
@@ -136,7 +129,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=32">&#10170  Introduction to OOP in JAVA</a><br>
+        <a href="https://youtu.be/bSrm9RXwBaI?si=DRO37r-8USvaMdSF">&#10170  Introduction to OOP in JAVA</a><br>
       </div>
     </div>
   </div>
