@@ -1,7 +1,6 @@
 <?php
   		if ( ! (empty($_POST['uid'])|| trim($_POST['uid'])=='') && !(empty($_POST['mail'])|| trim($_POST['mail'])=='') && !(empty($_POST['pwd'])|| trim($_POST['pwd'])=='') && !(empty($_POST['pwd-repeat'])|| trim($_POST['pwd-repeat'])=='') ) {
 
-  				/*Tester si les données sont entrées d'une bonne maniére*/
 
   			if(!filter_var($_POST['mail'],FILTER_VALIDATE_EMAIL) && !preg_match("/^[a-zA-Z0-9]*$/",$_POST['uid'])){
 				      header("Location: ../index.php?errorp=invalidmailuid");
@@ -19,7 +18,7 @@
 					  header("Location: ../index.php?errorp=passwordcheck&mail=".$_POST['mail']."&uid=".$_POST['uid']);
 					  exit();
 					 }
-				/*Si tout va bient on va connecter au base de données et voir :1/ si le nom d'utilisateur existe deja */
+			
 				try{
 					$db=new PDO('mysql:host=localhost;dbname=loginsystemtut;charset=utf8','root','',array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
 				}

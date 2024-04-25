@@ -226,21 +226,7 @@
               </div>
             </div>
 
-            <div class="course bg-white h-100 align-self-stretch">
-              <figure class="m-0">
-                <img src="images/img4.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="course-inner-text py-4 px-4">
-                <span class="course-price">$0</span>
-                <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>
-                <h3><a href="#">Arabic</a></h3>
-                <p>Learn the basics of the arabic language . </p>
-              </div>
-              <div class="d-flex border-top stats">
-                <div class="py-3 px-4"><span class="icon-users"></span> 3,193 students</div>
-                <div class="py-3 px-4 w-25 ml-auto border-left"><span class="icon-chat"></span> 2</div>
-              </div>
-            </div>
+            
 
 
 
