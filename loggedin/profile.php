@@ -12,7 +12,7 @@
  <link rel="stylesheet" href="styleprofile.css">
 
 
- <title>Learn Academy</title>
+ <title>Studify</title>
  </head>
   <body>
     <div class="topnav" id="myTopnav">
