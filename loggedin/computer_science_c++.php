@@ -38,9 +38,9 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
   <div class="card" >
       <img src="img4.png" class="card-img-top" alt="..." >
       <div class="card-body">
-        <p class="card-text" >C++ - Cours</p>
+        <p class="card-text" >C++ Programming</p>
 
-        <p class="card-text details" >Language : French</p>
+        <p class="card-text details" >Language : English</p>
         <p class="card-text details" >Tutor : FormationVidéo</p>
 
       </div>

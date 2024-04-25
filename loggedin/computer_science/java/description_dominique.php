@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>LAcademy </title>
+    <title>Studify </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- links for the navbar that i've made  -->
@@ -64,7 +64,7 @@
             <div class="col-12">
               <div class="row justify-content-center align-items-center text-center">
                 <div class="col-lg-6">
-                  <h1 data-aos="fade-up" data-aos-delay="0" class="text-white">Apprendre la programmation avec JAVA</h1>
+                  <h1 data-aos="fade-up" data-aos-delay="0" class="text-white">Learn Programming with JAVA</h1>
                   <p data-aos="fade-up" data-aos-delay="100" class="text-white">6 Lessons / 4 Week &bullet; 1005 students &bullet; <a href="#" class="text-white">2 comments</a></p>
                 </div>
               </div>
@@ -82,9 +82,9 @@
 
             <div class="mb-5">
               <h3 class="text-black">Course Description</h3>
-              <p>Cette playlist vous propose un ensemble de tutos, de niveau progressif,
-                qui permettent d'apprendre la programmation avec le langage Java.
-                Et retrouver le cours Java complet sur notre site : http://koor.fr/Java/Tutorial/Index.wp</p>
+              <p>This playlist offers you a set of tutorials, of progressive level, 
+                which allow you to learn programming with Java language
+                And find the full java course on our site: <br>http://koor.fr/java/tutorial/index.wp</p>
             </div>
 
             <div class="pt-5">
@@ -128,8 +128,8 @@
               <h3 class="mb-5 text-black text-uppercase h6 border-bottom pb-3">Course Instructor</h3>
               <div class="mb-4 text-center">
                 <img src="../../../images/profileDefault.jpg" alt="Image" class="w-25 rounded-circle mb-4">
-                <h3 class="h5 text-black mb-4">Dominique Liard</h3>
-                <p>Formateur indépendant - Informatique & Langage de programmation</p>
+                <h3 class="h5 text-black mb-4">Chirag Jain</h3>
+                <p>Independent trainer - IT and programming language</p>
               </div>
             </div>
           </div>
@@ -142,13 +142,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <h3>About LAcademy</h3>
+            <h3>About Studify</h3>
             <p>An E-Learning platform rich of resources, We make learning easy and simple for Everyone.</p>
           </div>
 
           <div class="col-md-4">
             <h3>Subscribe</h3>
-            <p>Keep yourself up to date and receive all kind of news about LAcademy.</p>
+            <p>Keep yourself up to date and receive all kind of news about Studify.</p>
             <form action="https://mailchi.mp/064deb47eeaa/lacdemy" target="_blank" class="footer-subscribe">
               <div class="d-flex mb-5">
 
