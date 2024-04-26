@@ -422,7 +422,7 @@
             <img src="images/person_4New.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle">
             <h3 class="mb-4">Chirag Jain</h3>
             <blockquote>
-              <p>&ldquo; I was struggling with my studies but it all changed when I learned about LAcademy, I'm now a senior software engineer making a 6 figure salary per year.This website is a real game changer. &rdquo;</p>
+              <p>&ldquo; I was struggling with my studies but it all changed when I learned about Studify, I'm now a senior software engineer making a 6 figure salary per year.This website is a real game changer. &rdquo;</p>
             </blockquote>
           </div>
         </div>
