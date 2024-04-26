@@ -394,7 +394,7 @@
             <div class="teacher text-center">
               <img src="images/person_2New.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Harkirat Chaddha</h3>
+                <h3 class="text-black">Harkirat Chadha</h3>
                 <p class="position">AI Teacher</p>
                 <p>Over 20 years of experience Worked at NASA and done so many projects .</p>
               </div>
