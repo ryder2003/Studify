@@ -34,12 +34,9 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
   </ol>
 </nav>
-<!-- the actual content of this course (  C++ Programming Tutorials  )
-     liste des chapitres-->
 
   <div class="accordion" id="accordionExample">
-	<!-- Détails chapitre 0 -->
-  <div class="card">
+      <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -58,8 +55,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 1 -->
-  <div class="card">
+ <div class="card">
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -76,7 +72,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 2 -->
   <div class="card">
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
@@ -98,8 +93,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
         </div>
     </div>
   </div>
-  <!-- Détails chapitre 3 -->
-  <div class="card">
+    <div class="card">
     <div class="card-header" id="headingFour">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -116,8 +110,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 4 -->
-  <div class="card">
+<div class="card">
     <div class="card-header" id="headingFive">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFour">
@@ -133,7 +126,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 5 -->
   <div class="card">
     <div class="card-header" id="headingSix">
       <h2 class="mb-0">
@@ -149,7 +141,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 6 -->
   <div class="card">
     <div class="card-header" id="headingSeven">
       <h2 class="mb-0">
@@ -179,7 +170,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 7 -->
   <div class="card">
     <div class="card-header" id="headingEight">
       <h2 class="mb-0">
