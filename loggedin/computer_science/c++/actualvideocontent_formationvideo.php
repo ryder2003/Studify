@@ -52,47 +52,47 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
             $chapitre="1";
             break;
           case '5':
-            $lien="https://www.youtube.com/embed//i3a-G6Ebh9E";
-            $nom_vid="Variables et Constantes";
+            $lien="https://www.youtube.com/embed//AY96XFqb934";
+            $nom_vid="If-else Conditionals";
             $chapitre="2";
             break;
           case '6':
-            $lien="https://www.youtube.com/embed/IhRBe5pwgG4";
-            $nom_vid="Les Tableaux";
+            $lien="https://www.youtube.com/embed/a7dfSBrTZtE";
+            $nom_vid="For, While and Do-While Loop";
             $chapitre="2";
             break;
           case '7':
-            $lien="https://www.youtube.com/embed/k0hlWQKk7d8";
-            $nom_vid="Pointeurs et Allocation Mémoire";
+            $lien="https://www.youtube.com/embed/DJh5NfK7h-U";
+            $nom_vid="Break and Continue Statements";
             $chapitre="2";
             break;
           case '8':
-            $lien="https://www.youtube.com/embed/8F3MDdqcr5g";
-            $nom_vid="Structures et Enumérations";
+            $lien="https://www.youtube.com/embed/EvYmTCx9BFs";
+            $nom_vid="Pointers in C++";
             $chapitre="2";
             break;
           case '9':
-            $lien="https://www.youtube.com/embed/KlsD_zFgFRk";
-            $nom_vid="Les fonctions";
+            $lien="https://www.youtube.com/embed/ePJxpxsnkGw";
+            $nom_vid="Arrays and Pointers Arithmetic in C++";
             $chapitre="3";
             break;
           case '10':
-            $lien="https://www.youtube.com/embed/I3VH14g0eMk";
-            $nom_vid="Programmation Objet";
+            $lien="https://www.youtube.com/embed/RFLFX1boGwo";
+            $nom_vid="Functions and Function Prototypes";
             $chapitre="4";
             break;
           case '11':
-            $lien="https://www.youtube.com/embed/s6dnU0MEUms";
-            $nom_vid="Constructeurs et Attributs ";
+            $lien="https://www.youtube.com/embed/oQbyN-vDghA";
+            $nom_vid="Call by Value and Call by Reference ";
             $chapitre="4";
             break;
           case '12':
-            $lien="https://www.youtube.com/embed/i92LckCRooA";
-            $nom_vid="Méthodes et Accesseurs";
+            $lien="https://www.youtube.com/embed//oVvvwEx-gBw";
+            $nom_vid="Inline Functions";
             $chapitre="4";
             break;
           default:
-            # code...
+            
             break;
         }
       }
@@ -103,7 +103,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <li class="breadcrumb-item" ><a href="../../../loggedin.php" style="color:white;font-size:bold;">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page"><a href="../../computer_science.php" style="color:white;">Computer Science</a></li>
     <li class="breadcrumb-item active" aria-current="page"><a href="../../computer_science_c++.php" style="color:white;">C++</a></li>
-    <li class="breadcrumb-item active" aria-current="page"><a href="computer_science_c++_formationvideo.php" style="color:white;">Cours C++</a></li>
+    <li class="breadcrumb-item active" aria-current="page"><a href="computer_science_c++_formationvideo.php" style="color:white;">Course C++</a></li>
     <li class="breadcrumb-item active" aria-current="page" style="color:white;"><?php echo $nom_vid ?></li>
   </ol>
 </nav>
@@ -151,16 +151,16 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingTwo">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                          Chapter 2 : Operators, Loops and More
+                          Chapter 2 : Control Statements and Looping
                         </button>
                       </h2>
                     </div>
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_formationvideo.php?video=4">&#10170  Constants and Operator Precedence</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=7">&#10170  If-else and Switch Statements</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=8">&#10170  For, While and do-while loops</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=9">&#10170  Break and Continue</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=5">&#10170  If-else Conditionals</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=6">&#10170  For, While and Do-While Loop</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=7">&#10170 Break and Continue Statements</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=8">&#10170  Pointers in C++</a><br>
                       </div>
                     </div>
                   </div>';
@@ -171,13 +171,13 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingThree">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                          Chapter 3 : Pointers
+                          Chapter 3 : Introduction to Arrays
                         </button>
                       </h2>
                     </div>
                     <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_formationvideo.php?video=6">&#10170  Pointers in C++</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=9">&#10170  Arrays and Pointers Arithmetic in C++++</a><br>
                         </div>
                     </div>
                   </div>';

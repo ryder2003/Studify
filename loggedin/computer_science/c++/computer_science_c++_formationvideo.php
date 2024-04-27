@@ -60,16 +60,16 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Chapter 2 : Operators, Loops and more
+          Chapter 2 : Control Statements and Looping
         </button>
       </h2>
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_formationvideo?video=5">&#10170  For Loops</a><br>
-        <a href="actualvideocontent_formationvideo?video=6">&#10170  While Loops</a><br>
-        <a href="actualvideocontent_formationvideo?video=7">&#10170  do while loops</a><br>
-        <a href="actualvideocontent_formationvideo?video=8">&#10170  Nested loops</a><br>
+        <a href="actualvideocontent_formationvideo?video=5">&#10170 If-else Conditionals</a><br>
+        <a href="actualvideocontent_formationvideo?video=6">&#10170  For, While and Do-While Loop</a><br>
+        <a href="actualvideocontent_formationvideo?video=7">&#10170  Break and Continue Statements</a><br>
+        <a href="actualvideocontent_formationvideo?video=8">&#10170  Pointers in C++</a><br>
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_formationvideo?video=">&#10170  Pointers in C++</a><br>
+        <a href="actualvideocontent_formationvideo?video=9">&#10170  Arrays and Pointers Arithmetic in C++</a><br>
         </div>
     </div>
   </div>
@@ -99,7 +99,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_formationvideo?video=">&#10170  Functions and Function Prototypes</a><br>
-        <a href="actualvideocontent_formationvideo?video=">&#10170  Call by Value and Call by Reference</a><br>
-        <a href="actualvideocontent_formationvideo?video=">&#10170  Inline Functions</a><br>
+        <a href="actualvideocontent_formationvideo?video=10">&#10170  Functions and Function Prototypes</a><br>
+        <a href="actualvideocontent_formationvideo?video=11">&#10170  Call by Value and Call by Reference</a><br>
+        <a href="actualvideocontent_formationvideo?video=12">&#10170  Inline Functions</a><br>
 <?php require "../../../footer.php" ?>
