@@ -84,7 +84,7 @@
               <h3 class="text-black">Course Description</h3>
               <p>This playlist offers you a set of tutorials, of progressive level, 
                 which allow you to learn programming with Java language
-                And find the full java course on our site: <br>http://koor.fr/java/tutorial/index.wp</p>
+                And find the full java course on our site: <br>https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&si=Se9yGDA8CXuyzIkB</p>
             </div>
 
             <div class="pt-5">
@@ -163,9 +163,8 @@
           <div class="col-md-12">
             <div class="border-top pt-5">
             <p>
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
         Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
       </p>
             </div>
           </div>

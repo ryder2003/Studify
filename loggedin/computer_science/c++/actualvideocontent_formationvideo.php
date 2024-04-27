@@ -32,27 +32,27 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       if (isset($_GET['video'])){
         switch ($_GET['video']) {
           case '1':
-            $lien="https://www.youtube.com/embed/o9sIrvpH_ic";
-            $nom_vid="Introduction";
+            $lien="https://www.youtube.com/embed/j8nAHeVKL08";
+            $nom_vid="Introduction to C++";
             $chapitre="1";
             break;
           case '2':
-            $lien="https://www.youtube.com/embed/hwZTgl7puU0";
-            $nom_vid="Premier Code";
+            $lien="https://www.youtube.com/embed/oW2r0r_i5Ps";
+            $nom_vid="Basic Structure of C++ Program";
             $chapitre="1";
             break;
           case '3':
-            $lien="https://www.youtube.com/embed/CMx1WOVXkW0";
-            $nom_vid="Affichage En Console";
+            $lien="https://www.youtube.com/embed/jigb6W35zHc";
+            $nom_vid="Variables and Comments";
             $chapitre="1";
             break;
           case '4':
-            $lien="https://www.youtube.com/embed/wqTRMfdkoNA";
-            $nom_vid="Saisie Utilisateur";
+            $lien="https://www.youtube.com/embed/JrnQ-915czY";
+            $nom_vid="Variable Scope and Data Types";
             $chapitre="1";
             break;
           case '5':
-            $lien="https://www.youtube.com/embed/1cfrnPkXIOI";
+            $lien="https://www.youtube.com/embed//i3a-G6Ebh9E";
             $nom_vid="Variables et Constantes";
             $chapitre="2";
             break;
@@ -139,7 +139,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                         <a href="actualvideocontent_formationvideo.php?video=1">&#10170  Introduction to C++</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=2">&#10170  Basic Structure of C++</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=3">&#10170  Variables and Comments in C++</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=5">&#10170  Variable Scope and Data Types</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=4">&#10170  Variable Scope and Data Types</a><br>
 
                       </div>
                     </div>

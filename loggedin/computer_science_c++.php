@@ -40,8 +40,8 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       <div class="card-body">
         <p class="card-text" >C++ Programming</p>
 
-        <p class="card-text details" >Language : English</p>
-        <p class="card-text details" >Tutor : Bro Code</p>
+        <p class="card-text details" >Language : Hinglish</p>
+        <p class="card-text details" >Tutor : Code With Harry</p>
 
       </div>
       <a href="computer_science/c++/description_formationvideo.php" class="btn btn-primary" target="_blank">View Description !</a><br>
