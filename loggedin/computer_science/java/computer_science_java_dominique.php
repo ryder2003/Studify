@@ -32,7 +32,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <li class="breadcrumb-item" ><a href="../../../loggedin.php" style="color:white;font-size:bold;">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page"><a href="../../computer_science.php" style="color:white;">Computer Science</a></li>
     <li class="breadcrumb-item active" aria-current="page"><a href="../../computer_science_java.php" style="color:white;">Java</a></li>
-    <li class="breadcrumb-item active" aria-current="page" style="color:white;">Learning programming using JAVA</li>
+    <li class="breadcrumb-item active" aria-current="page" style="color:white;">Learning Programming using JAVA</li>
 
   </ol>
 </nav>
@@ -49,7 +49,9 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=1">&#10170  Introduction to JAVA language</a><br>
+        <a href="actualvideocontent_dominique?video=1">&#10170  Introduction To Java and Installing IDE + JDK</a><br>
+        <a href="actualvideocontent_dominique?video=2">&#10170  Basic Structure of JAVA Program</a><br>
+        <a href="actualvideocontent_dominique?video=3">&#10170   Variables and Data Types in JAVA</a><br>
 
       </div>
     </div>
@@ -58,14 +60,18 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          Chapter 1 : Manipulation of types of variables and conditionals
+          Chapter 1 : Understanding Basic Concepts in JAVA
         </button>
       </h2>
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=2">&#10170  Variables in JAVA</a><br>
-        <a href="actualvideocontent_dominique.php?video=3">&#10170  Conditional Satements (if else, switch break)</a><br>
+        <a href="actualvideocontent_dominique?video=4">&#10170  Literals in JAVA</a><br>
+        <a href="actualvideocontent_dominique?video=8">&#10170  Getting user Input in JAVA</a><br>
+        <a href="actualvideocontent_dominique?video=9">&#10170  Operators, Types of Operators and Expressions in JAVA</a><br>
+        <a href="actualvideocontent_dominique?video=10">&#10170  Associavity of Operators in JAVA</a><br>
+        <a href="actualvideocontent_dominique?video=13">&#10170  Data Type of Expressions and Increment/Decrement Operators</a><br>
+        <a href="actualvideocontent_dominique?video=14">&#10170  Strings</a><br>
       </div>
     </div>
   </div>
@@ -73,16 +79,15 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Chapter 2 : Functions and Arrays in JAVA
+          Chapter 2 : Control Statements and Looping
         </button>
       </h2>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique.php?video=4">&#10170  Functions and Methods</a><br>
-        <a href="actualvideocontent_dominique.php?video=5">&#10170  Functions in JAVA</a><br>
-        <a href="actualvideocontent_dominique.php?video=6">&#10170  Arrays Introduction</a><br>
-        <a href="actualvideocontent_dominique.php?video=7">&#10170  2D Arrays</a><br>
+        <a href="actualvideocontent_dominique?video=5">&#10170 Conditionals: If-else Statement</a><br>
+        <a href="actualvideocontent_dominique?video=6">&#10170  For Loop</a><br>
+        <a href="actualvideocontent_dominique?video=16">&#10170  While Loop</a><br>
 
       </div>
     </div>
