@@ -34,17 +34,9 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
   </ol>
 </nav>
-<<<<<<< Updated upstream
-<!-- the actual content of this course (C++ Programming)
-     List of Chapters-->
-
-  <div class="accordion" id="accordionExample">
-	
-=======
 
   <div class="accordion" id="accordionExample">
 
->>>>>>> Stashed changes
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
@@ -56,16 +48,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-<<<<<<< Updated upstream
-        <a href="actualvideocontent_formationvideo?video=1">&#10170  C++ tutorial for Beginners</a><br>
-        <a href="actualvideocontent_formationvideo?video=2">&#10170  Variables and Basic data types</a><br>
-        <a href="actualvideocontent_formationvideo?video=3">&#10170  What is a const</a><br>
-        <a href="actualvideocontent_formationvideo?video=4">&#10170  What are namespaces</a><br>
-      </div>
-    </div>
-  </div>
-  
-=======
         <a href="actualvideocontent_formationvideo?video=">&#10170  Introduction to C++</a><br>
         <a href="actualvideocontent_formationvideo?video=">&#10170  Basic Structure of C++</a><br>
         <a href="actualvideocontent_formationvideo?video=">&#10170  Variables and Comments</a><br>
@@ -74,16 +56,11 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
   </div>
 
->>>>>>> Stashed changes
   <div class="card">
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-<<<<<<< Updated upstream
-          Chapter 2 : Loop Statements
-=======
           Chapter 2 : Operators, Loops and more
->>>>>>> Stashed changes
         </button>
       </h2>
     </div>
@@ -101,30 +78,17 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-<<<<<<< Updated upstream
-          Chapter 3 : Conditional Statements
-=======
           Chapter 3 : Pointers
->>>>>>> Stashed changes
         </button>
       </h2>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-<<<<<<< Updated upstream
-        
-      <a href="actualvideocontent_formationvideo?video=9">&#10170  Conditional Statements</a><br>
-        </div>
-    </div>
-  </div>
-
-=======
         <a href="actualvideocontent_formationvideo?video=">&#10170  Pointers in C++</a><br>
         </div>
     </div>
   </div>
   
->>>>>>> Stashed changes
   <div class="card">
     <div class="card-header" id="headingFour">
       <h2 class="mb-0">
@@ -135,18 +99,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
-<<<<<<< Updated upstream
-        <a href="actualvideocontent_formationvideo?video=10">&#10170  Intro to Arrays</a><br>
-        <a href="actualvideocontent_formationvideo?video=11">&#10170  Searching array element</a><br>
-        <a href="actualvideocontent_formationvideo?video=12">&#10170  Sorting an Array</a><br>
-=======
         <a href="actualvideocontent_formationvideo?video=">&#10170  Functions and Function Prototypes</a><br>
         <a href="actualvideocontent_formationvideo?video=">&#10170  Call by Value and Call by Reference</a><br>
         <a href="actualvideocontent_formationvideo?video=">&#10170  Inline Functions</a><br>
->>>>>>> Stashed changes
-      </div>
-    </div>
-  </div>
-</div>
-
 <?php require "../../../footer.php" ?>

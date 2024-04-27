@@ -134,17 +134,13 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                       <div class="card-body">
-<<<<<<< Updated upstream
-                        <a href="actualvideocontent_formationvideo.php?video=1">&#10170  C++ Tutorial for Beginners</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=2">&#10170  Variables and Basic data types</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=3">&#10170  What is a const</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=4">&#10170  What are namespaces</a><br>
-=======
+
+
                         <a href="actualvideocontent_formationvideo.php?video=1">&#10170  Introduction to C++</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=2">&#10170  Basic Structure of C++</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=3">&#10170  Variables and Comments in C++</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=5">&#10170  Variable Scope and Data Types</a><br>
->>>>>>> Stashed changes
+
                       </div>
                     </div>
                   </div>';
@@ -155,27 +151,16 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingTwo">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-<<<<<<< Updated upstream
-                          Chapter 2 : Loop Statements
-=======
                           Chapter 2 : Operators, Loops and More
->>>>>>> Stashed changes
                         </button>
                       </h2>
                     </div>
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                       <div class="card-body">
-<<<<<<< Updated upstream
-                        <a href="actualvideocontent_formationvideo.php?video=5">&#10170  For Loops</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=6">&#10170  While Loops</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=7">&#10170  do while loops</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=8">&#10170  Nested Loops</a><br>
-=======
                         <a href="actualvideocontent_formationvideo.php?video=4">&#10170  Constants and Operator Precedence</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=7">&#10170  If-else and Switch Statements</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=8">&#10170  For, While and do-while loops</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=9">&#10170  Break and Continue</a><br>
->>>>>>> Stashed changes
                       </div>
                     </div>
                   </div>';
@@ -186,21 +171,13 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingThree">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-<<<<<<< Updated upstream
-                          Chapter 3 : Conditional Statements
-=======
                           Chapter 3 : Pointers
->>>>>>> Stashed changes
                         </button>
                       </h2>
                     </div>
                     <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordionExample">
                       <div class="card-body">
-<<<<<<< Updated upstream
-                        <a href="actualvideocontent_formationvideo.php?video=9">&#10170  Conditional statement</a><br>
-=======
                         <a href="actualvideocontent_formationvideo.php?video=6">&#10170  Pointers in C++</a><br>
->>>>>>> Stashed changes
                         </div>
                     </div>
                   </div>';
@@ -211,25 +188,15 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingFour">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-<<<<<<< Updated upstream
-                           Chapter 4 : Arrays
-=======
                            Chapter 4 : Functions in C++
->>>>>>> Stashed changes
                         </button>
                       </h2>
                     </div>
                     <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordionExample">
                       <div class="card-body">
-<<<<<<< Updated upstream
-                        <a href="actualvideocontent_formationvideo.php?video=10">&#10170  Intro to Arrays</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=11">&#10170  Searching Array element</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=12">&#10170  Sorting an Array</a><br>
-=======
                         <a href="actualvideocontent_formationvideo.php?video=10">&#10170  Functions nad Function Prototypes</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=11">&#10170  Call by Value and Call by Reference</a><br>
                         <a href="actualvideocontent_formationvideo.php?video=12">&#10170  Inline Functions</a><br>
->>>>>>> Stashed changes
                       </div>
                     </div>
                   </div>';
