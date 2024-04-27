@@ -46,32 +46,32 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
             $nom_vid="Affichage En Console";
             $chapitre="1";
             break;
-          case '5':
+          case '4':
             $lien="https://www.youtube.com/embed/wqTRMfdkoNA";
             $nom_vid="Saisie Utilisateur";
             $chapitre="1";
             break;
-          case '4':
+          case '5':
             $lien="https://www.youtube.com/embed/1cfrnPkXIOI";
             $nom_vid="Variables et Constantes";
             $chapitre="2";
             break;
-          case '7':
+          case '6':
             $lien="https://www.youtube.com/embed/IhRBe5pwgG4";
             $nom_vid="Les Tableaux";
             $chapitre="2";
             break;
-          case '8':
+          case '7':
             $lien="https://www.youtube.com/embed/k0hlWQKk7d8";
             $nom_vid="Pointeurs et Allocation Mémoire";
             $chapitre="2";
             break;
-          case '9':
+          case '8':
             $lien="https://www.youtube.com/embed/8F3MDdqcr5g";
             $nom_vid="Structures et Enumérations";
             $chapitre="2";
             break;
-          case '6':
+          case '9':
             $lien="https://www.youtube.com/embed/KlsD_zFgFRk";
             $nom_vid="Les fonctions";
             $chapitre="3";
@@ -127,73 +127,76 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingOne">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                          Chapitre 1 : Introduction
+                          Chapter 1 : Introduction
                         </button>
                       </h2>
                     </div>
 
                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_formationvideo.php?video=1">&#10170  Introduction</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=2">&#10170  Premier Code</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=3">&#10170  Affichage En Console</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=5">&#10170  Saisie Utilisateur</a><br>
+
+
+                        <a href="actualvideocontent_formationvideo.php?video=1">&#10170  Introduction to C++</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=2">&#10170  Basic Structure of C++</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=3">&#10170  Variables and Comments in C++</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=5">&#10170  Variable Scope and Data Types</a><br>
+
                       </div>
                     </div>
                   </div>';
                   break;
                 case '2':
-                  echo '<!-- Détails chapitre 2 -->
+                  echo '<!-- Chapter 2 Details-->
                   <div class="card">
                     <div class="card-header" id="headingTwo">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                          Chapitre 2 : Manipulation des types de données
+                          Chapter 2 : Operators, Loops and More
                         </button>
                       </h2>
                     </div>
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_formationvideo.php?video=4">&#10170  Variables et Constantes</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=7">&#10170  Les Tableaux</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=8">&#10170  Pointeurs et Allocation Mémoire</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=9">&#10170  Structures et Enumérations</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=4">&#10170  Constants and Operator Precedence</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=7">&#10170  If-else and Switch Statements</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=8">&#10170  For, While and do-while loops</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=9">&#10170  Break and Continue</a><br>
                       </div>
                     </div>
                   </div>';
                   break;
                 case '3':
-                  echo '<!-- Détails chapitre 3 -->
+                  echo '<!-- Chapter 3 Details-->
                   <div class="card">
                     <div class="card-header" id="headingThree">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                          Chapitre 3 : Programmation procédurale
+                          Chapter 3 : Pointers
                         </button>
                       </h2>
                     </div>
                     <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_formationvideo.php?video=6">&#10170  Les fonctions</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=6">&#10170  Pointers in C++</a><br>
                         </div>
                     </div>
                   </div>';
                   break;
                 case '4':
-                  echo '<!-- Détails chapitre 4 -->
+                  echo '<!-- Chapter 4 Details-->
                   <div class="card">
                     <div class="card-header" id="headingFour">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                           Chapitre 4 : Programmation Orienté Objet
+                           Chapter 4 : Functions in C++
                         </button>
                       </h2>
                     </div>
                     <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_formationvideo.php?video=10">&#10170  Programmation Objet</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=11">&#10170  Constructeurs et Attributs</a><br>
-                        <a href="actualvideocontent_formationvideo.php?video=12">&#10170  Méthodes et Accesseurs</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=10">&#10170  Functions nad Function Prototypes</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=11">&#10170  Call by Value and Call by Reference</a><br>
+                        <a href="actualvideocontent_formationvideo.php?video=12">&#10170  Inline Functions</a><br>
                       </div>
                     </div>
                   </div>';

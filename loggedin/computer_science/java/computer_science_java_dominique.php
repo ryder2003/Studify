@@ -102,9 +102,9 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="https://youtu.be/PkJIc5tBRUE?si=3qVph9TSvYS451cN">&#10170  Bubble Sort, Selection Sort, and Insertion Sort</a><br>
-        <a href="https://youtu.be/unxAnJBy12Q?si=zmAU5rD1qWzqPj4P">&#10170  Merge Sort</a><br>
-        <a href="https://youtu.be/QXum8HQd_l4?si=hzNqQPv6oQBTX2cs">&#10170  Quick Sort</a><br>
+        <a href="actualvideocontent_dominique.php?video=8">&#10170  Bubble Sort, Selection Sort, and Insertion Sort</a><br>
+        <a href="actualvideocontent_dominique.php?video=9">&#10170  Merge Sort</a><br>
+        <a href="actualvideocontent_dominique.php?video=10">&#10170  Quick Sort</a><br>
       </div>
     </div>
   </div>
@@ -118,8 +118,8 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="https://youtu.be/u-HgzgYe8KA?si=r1525fEfCrJj0vAe">&#10170  Recursion in JAVA</a><br>
-        <a href="https://youtu.be/xZykmhcWGuY?si=sdkwYHNjSizwTXQk">&#10170  Questions on Recursion in JAVA</a><br>
+        <a href="actualvideocontent_dominique.php?video=11">&#10170  Recursion in JAVA</a><br>
+        <a href="actualvideocontent_dominique.php?video=12">&#10170  Questions on Recursion in JAVA</a><br>
       </div>
     </div>
   </div>
@@ -134,7 +134,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="https://youtu.be/bSrm9RXwBaI?si=DRO37r-8USvaMdSF">&#10170  Introduction to OOP in JAVA</a><br>
+        <a href="actualvideocontent_dominique.php?video=13">&#10170  Introduction to OOP in JAVA</a><br>
       </div>
     </div>
   </div>

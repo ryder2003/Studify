@@ -76,77 +76,26 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
             $nom_vid=" Strings";
             $chapitre="1";
             break;
-          case '5':
+          case '10':
             $lien="https://www.youtube.com/embed/udV9ugHKglA";
             $nom_vid="Opérateurs ++ (incrément) et -- (décrément)";
-            $chapitre="2";
+            $chapitre="3";
             break;
-          case '6':
+          case '11':
             $lien="https://www.youtube.com/embed/T2-eYxx0QRw";
             $nom_vid="Utilisation des opérateurs binaires";
-            $chapitre="2";
+            $chapitre="4";
             break;
-          case '16':
+          case '12':
             $lien="https://www.youtube.com/embed/Lne5VEBYZZ0";
             $nom_vid="La table de précédence des opérateurs Java";
-            $chapitre="2";
+            $chapitre="4";
             break;
-          case '18':
+          case '13':
             $lien="https://www.youtube.com/embed/rE4eNfEgIx4";
             $nom_vid="Les instructions conditionnelles";
-            $chapitre="3";
-            break;
-          case '19':
-            $lien="https://www.youtube.com/embed/f7lS5AAbfJk";
-            $nom_vid="Le nouveau switch de Java SE 14";
-            $chapitre="3";
-            break;
-          case '20':
-            $lien="https://www.youtube.com/embed/d4HQdkuC65I";
-            $nom_vid="Les instructions de boucles";
-            $chapitre="4";
-            break;
-          case '21':
-            $lien="https://www.youtube.com/embed/Wt1iXdxb6JU";
-            $nom_vid="L'instruction foreach en Java";
-            $chapitre="4";
-            break;
-          case '22':
-            $lien="https://www.youtube.com/embed/eUOVf6tr8RM";
-            $nom_vid="Les instructions de débranchement (break et continue)";
-            $chapitre="4";
-            break;
-          case '32':
-            $lien="https://www.youtube.com/embed/cfxJOZ-dbMc";
-            $nom_vid="Introduction à la Programmation Orientée Objet et principe d'encapsulation";
             $chapitre="5";
             break;
-          case '33':
-            $lien="https://www.youtube.com/embed/0NKxgvStdCM";
-            $nom_vid="Mise en oeuvre du concept d'héritage.";
-            $chapitre="5";
-            break;
-          case '34':
-            $lien="https://www.youtube.com/embed/rIuQHKjIjt4";
-            $nom_vid="Méthodes abstraites, classes abstraites et interfaces";
-            $chapitre="5";
-            break;
-          case '35':
-            $lien="https://www.youtube.com/embed/xG7Oq5Zk2Ak";
-            $nom_vid="Implémentations d'interfaces";
-            $chapitre="5";
-            break;
-          case '38':
-            $lien="https://www.youtube.com/embed/o0uoNIyit9Q";
-            $nom_vid="Introduction au mécanisme d'exceptions en Java";
-            $chapitre="6";
-            break;
-          case '39':
-            $lien="https://www.youtube.com/embed/3ri0nhAmdOU";
-            $nom_vid="Mise en oeuvre d'une classe d'exception";
-            $chapitre="6";
-            break;
-
           default:
             # code...
             break;
@@ -199,7 +148,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                   </div>';
                   break;
                 case '1':
-                  echo '<!-- Détails chapitre 1 -->
+                  echo '<!-- Chapter 1 Details-->
                   <div class="card">
                     <div class="card-header" id="headingTwo">
                       <h2 class="mb-0">
@@ -221,7 +170,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                   </div>';
                   break;
                 case '2':
-                  echo '<!-- Détails chapitre 2 -->
+                  echo '<!-- Chapter 2 Details-->
                   <div class="card">
                     <div class="card-header" id="headingThree">
                       <h2 class="mb-0">
@@ -241,81 +190,60 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                   </div>';
                   break ;
                 case '3':
-                  echo '<!-- Détails chapitre 3 -->
+                  echo '<!-- Chapter 3 Details-->
                   <div class="card">
                     <div class="card-header" id="headingFour">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                           Chapitre 3 : Les instructions conditionnelles
+                           Chapter 3 : Sorting
                         </button>
                       </h2>
                     </div>
                     <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=18">&#10170  Les instructions conditionnelles</a><br>
-                        <a href="actualvideocontent_dominique.php?video=19">&#10170  Le nouveau switch de Java SE 14</a><br>
+                        <a href="actualvideocontent_dominique.php?video=8">&#10170  Bubble Sort, selection Sort, Insertion Sort</a><br>
+                        <a href="actualvideocontent_dominique.php?video=9">&#10170  Merge Sort</a><br>
+                        <a href="actualvideocontent_dominique.php?video=10">&#10170  Quick Sort</a><br>
                       </div>
                     </div>
                   </div>';
                   break ;
                 case '4':
-                  echo '<!-- Détails chapitre 4 -->
+                  echo '<!-- Chapter 4 Details-->
                   <div class="card">
                     <div class="card-header" id="headingFive">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                           Chapitre 4 : Les boucles
+                           Chapter 4 : Recursion
                         </button>
                       </h2>
                     </div>
                     <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=20">&#10170  Les instructions de boucles</a><br>
-                        <a href="actualvideocontent_dominique.php?video=21">&#10170  L\'instruction foreach en Java</a><br>
-                        <a href="actualvideocontent_dominique.php?video=22">&#10170  Les instructions de débranchement (break et continue)</a><br>
+                        <a href="actualvideocontent_dominique.php?video=11">&#10170  Recursion in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=12">&#10170  Questions on Recursion in JAVA</a><br>
                       </div>
                     </div>
                   </div>';
                   break ;
                 case '5':
-                  echo ' <!-- Détails chapitre 5 -->
+                  echo ' <!-- Chapter 5 Details-->
                   <div class="card">
                     <div class="card-header" id="headingSix">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                            Chapitre 5 : Programmation orienté objet
+                            Chapter 5 : Object Oriented Programming
                         </button>
                       </h2>
                     </div>
                     <div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=32">&#10170  Introduction à la Programmation Orientée Objet et principe d\'encapsulation</a><br>
-                        <a href="actualvideocontent_dominique.php?video=33">&#10170  Mise en oeuvre du concept d\'héritage.</a><br>
-                        <a href="actualvideocontent_dominique.php?video=34">&#10170  Méthodes abstraites, classes abstraites et interfaces</a><br>
-                        <a href="actualvideocontent_dominique.php?video=35">&#10170  Implémentations d\'interfaces</a><br>
+                        <a href="actualvideocontent_dominique.php?video=13">&#10170  Introduction to OOP in JAVA</a><br>
                       </div>
                     </div>
                   </div>';
                   break ;
-                case '6':
-                  echo '<!-- Détails chapitre 6 -->
-                  <div class="card">
-                    <div class="card-header" id="headingSeven">
-                      <h2 class="mb-0">
-                        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
-                            Chapitre 6 : Les exceptions
-                        </button>
-                      </h2>
-                    </div>
-                    <div id="collapseSeven" class="collapse show"  aria-labelledby="headingSeven" data-parent="#accordionExample">
-                      <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=38">&#10170  Introduction au mécanisme d\'exceptions en Java</a><br>
-                        <a href="actualvideocontent_dominique.php?video=39">&#10170  Mise en oeuvre d\'une classe d\'exception</a><br>
-                      </div>
-                    </div>
-                  </div>';
-                  break ;
-              }
+                }
             }
           ?>
         </div>
