@@ -38,7 +38,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       <div class="card-body">
         <p class="card-text" >C++ - Cours</p>
 
-        <p class="card-text details" >Language : French</p>
+        <p class="card-text details" >Language : English</p>
         <p class="card-text details" >Tutor : FormationVidéo</p>
 
       </div>
@@ -71,9 +71,9 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
   <div class="card" >
       <img src="img1.png" class="card-img-top" alt="..." >
       <div class="card-body">
-        <p class="card-text" >Apprendre la programmation avec JAVA</p>
+        <p class="card-text" >Learn programming with JAVA</p>
 
-        <p class="card-text details" >Language : French</p>
+        <p class="card-text details" >Language : English</p>
         <p class="card-text details" >Tutor : Dominique Liard</p>
 
       </div>
@@ -120,7 +120,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
   <div class="card" >
       <img src="img8.png" class="card-img-top" alt="..." >
       <div class="card-body">
-        <p class="card-text" >Python Tutorials Arabic|| دورة برمجة بايثون</p>
+        <p class="card-text" >Python Tutorials Arabic</p>
 
         <p class="card-text details" >Language : Arabic</p>
         <p class="card-text details" >Tutor : TheNewBaghdad </p>
