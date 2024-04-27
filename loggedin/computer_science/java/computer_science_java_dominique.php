@@ -96,15 +96,14 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <div class="card-header" id="headingFour">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-           Chapter 3 : Sorting
+           Chapter 3 : Arrays
         </button>
       </h2>
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="https://youtu.be/PkJIc5tBRUE?si=3qVph9TSvYS451cN">&#10170  Bubble Sort, Selection Sort, and Insertion Sort</a><br>
-        <a href="https://youtu.be/unxAnJBy12Q?si=zmAU5rD1qWzqPj4P">&#10170  Merge Sort</a><br>
-        <a href="https://youtu.be/QXum8HQd_l4?si=hzNqQPv6oQBTX2cs">&#10170  Quick Sort</a><br>
+        <a href="actualvideocontent_dominique.php?video=18">&#10170  Introduction to Arrays</a><br>
+        <a href="actualvideocontent_dominique.php?video=19">&#10170  Multidimensional Arrays</a><br>
       </div>
     </div>
   </div>

@@ -77,28 +77,28 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
             $chapitre="1";
             break;
           case '5':
-            $lien="https://www.youtube.com/embed/udV9ugHKglA";
-            $nom_vid="Opérateurs ++ (incrément) et -- (décrément)";
+            $lien="https://www.youtube.com/embed/YPK6NYMJt_A";
+            $nom_vid="Conditionals: If-else Statement";
             $chapitre="2";
             break;
           case '6':
-            $lien="https://www.youtube.com/embed/T2-eYxx0QRw";
-            $nom_vid="Utilisation des opérateurs binaires";
+            $lien="https://www.youtube.com/embed/XHgC6Md8L9o";
+            $nom_vid="For Loop";
             $chapitre="2";
             break;
           case '16':
-            $lien="https://www.youtube.com/embed/Lne5VEBYZZ0";
-            $nom_vid="La table de précédence des opérateurs Java";
+            $lien="https://www.youtube.com/embed/GE5C_So1y00";
+            $nom_vid=" While Loop";
             $chapitre="2";
             break;
           case '18':
-            $lien="https://www.youtube.com/embed/rE4eNfEgIx4";
-            $nom_vid="Les instructions conditionnelles";
+            $lien="https://www.youtube.com/embed/qMePCtjeqB4";
+            $nom_vid="Introduction to Arrays";
             $chapitre="3";
             break;
           case '19':
-            $lien="https://www.youtube.com/embed/f7lS5AAbfJk";
-            $nom_vid="Le nouveau switch de Java SE 14";
+            $lien="https://www.youtube.com/embed/CfqjAKN-AwI";
+            $nom_vid="Multidimensional Arrays";
             $chapitre="3";
             break;
           case '20':
@@ -246,14 +246,14 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingFour">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                           Chapitre 3 : Les instructions conditionnelles
+                           Chapter 3 : Arrays
                         </button>
                       </h2>
                     </div>
                     <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=18">&#10170  Les instructions conditionnelles</a><br>
-                        <a href="actualvideocontent_dominique.php?video=19">&#10170  Le nouveau switch de Java SE 14</a><br>
+                        <a href="actualvideocontent_dominique.php?video=18">&#10170  Introduction to Arrays</a><br>
+                        <a href="actualvideocontent_dominique.php?video=19">&#10170  Multidimensional Arrays</a><br>
                       </div>
                     </div>
                   </div>';
