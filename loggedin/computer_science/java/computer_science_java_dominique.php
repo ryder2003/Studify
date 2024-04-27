@@ -79,16 +79,15 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Chapter 2 : Looping and Arrays
+          Chapter 2 : Control Statements and Looping
         </button>
       </h2>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="actualvideocontent_dominique?video=14">&#10170  While Loop</a><br>
-        <a href="actualvideocontent_dominique?video=14">&#10170  For Loop</a><br>
-        <a href="actualvideocontent_dominique?video=14">&#10170  Arrays Introduction</a><br>
-        <a href="actualvideocontent_dominique?video=14">&#10170  Multidimensional Arrays</a><br>
+        <a href="actualvideocontent_dominique?video=5">&#10170 Conditionals: If-else Statement</a><br>
+        <a href="actualvideocontent_dominique?video=6">&#10170  For Loop</a><br>
+        <a href="actualvideocontent_dominique?video=16">&#10170  While Loop</a><br>
 
       </div>
     </div>

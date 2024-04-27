@@ -25,7 +25,7 @@
 
 <div class="card-container">
   <div class="card bg-light mb-3" style="max-width: 18rem;">
-    <div class="card-header">Computer science</div>
+    <div class="card-header">Computer Science</div>
     <div class="card-body">
       <ul style="list-style-type:circle">
         <li><a class="card-text" href="loggedin/computer_science_java.php">Java</a><br></li>
