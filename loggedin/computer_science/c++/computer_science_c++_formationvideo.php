@@ -89,7 +89,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-<<<<<<< Updated upstream
         <a href="actualvideocontent_formationvideo?video=5">&#10170  For Loops</a><br>
         <a href="actualvideocontent_formationvideo?video=6">&#10170  While Loops</a><br>
         <a href="actualvideocontent_formationvideo?video=7">&#10170  do while loops</a><br>
@@ -98,17 +97,6 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     </div>
   </div>
   
-=======
-        <a href="actualvideocontent_formationvideo?video=">&#10170  Constants and Operator Precedence</a><br>
-        <a href="actualvideocontent_formationvideo?video=">&#10170  If-else and Switch Statements</a><br>
-        <a href="actualvideocontent_formationvideo?video=">&#10170  For, While, and do-while loops</a><br>
-        <a href="actualvideocontent_formationvideo?video=">&#10170  Break and Continue</a><br>
-
-      </div>
-    </div>
-  </div>
-
->>>>>>> Stashed changes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
