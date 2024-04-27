@@ -384,8 +384,8 @@
               <img src="images/person_1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
                 <h3 class="text-black">Raman Bir Singh</h3>
-                <p class="position">WEB Teacher</p>
-                <p>Made over 100 websites with years of experience, taught over 500 students.</p>
+                <p class="position">App Developer</p>
+                <p>Made over 10 projects with 2 years of experience, taught over 500 students.</p>
               </div>
             </div>
           </div>
@@ -394,9 +394,9 @@
             <div class="teacher text-center">
               <img src="images/person_2New.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Harkirat Chadha</h3>
-                <p class="position">AI Teacher</p>
-                <p>Over 20 years of experience Worked at NASA and done so many projects .</p>
+                <h3 class="text-black">Chirag Jain</h3>
+                <p class="position">AI Expert</p>
+                <p>Over 5 years of experience Worked at NASA and done so many projects .</p>
               </div>
             </div>
           </div>
@@ -420,7 +420,7 @@
         <div class="row justify-content-center align-items-center">
           <div class="col-md-8 text-center testimony">
             <img src="images/person_4New.jpg" alt="Image" class="img-fluid w-25 mb-4 rounded-circle">
-            <h3 class="mb-4">Chirag Jain</h3>
+            <h3 class="mb-4">Harkirat Chadha</h3>
             <blockquote>
               <p>&ldquo; I was struggling with my studies but it all changed when I learned about Studify, I'm now a senior software engineer making a 6 figure salary per year.This website is a real game changer. &rdquo;</p>
             </blockquote>
