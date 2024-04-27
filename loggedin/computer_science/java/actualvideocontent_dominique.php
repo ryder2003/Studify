@@ -226,7 +226,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingThree">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                          Chaptere 2 : 
+                          Chapter 2 : Looping and Arrays
                         </button>
                       </h2>
                     </div>

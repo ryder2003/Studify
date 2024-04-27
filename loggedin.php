@@ -8,13 +8,10 @@
 <title>Your Page Title</title>
 <style>
   body {
-    /* Set background image */
     background-image: url('images/login_courses.jpg');
-    
-    /* Specify background image behavior */
-    background-size: cover; /* Cover the entire background */
-    background-position: center; /* Center the background image */
-    background-repeat: no-repeat; /* Do not repeat the background image */
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
   }
 </style>
 </head>

@@ -79,16 +79,16 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          Chapter 2 : Functions and Arrays in JAVA
+          Chapter 2 : Looping and Arrays
         </button>
       </h2>
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        <a href="https://youtu.be/qcSz4ef9UHA?si=SQ2GhvhppToYLVLA">&#10170  Functions and Methods</a><br>
-        <a href="https://youtu.be/pFPZ83mgH00?si=yaJHAdySVbihyFSz">&#10170  Functions in JAVA</a><br>
-        <a href="https://youtu.be/NTHVTY6w2Co?si=Cb22TKf6p0SJhdSU">&#10170  Arrays Introduction</a><br>
-        <a href="https://youtu.be/18Zt5I4S45o?si=_CAVS4qIIKl8Q-Yw">&#10170  2D Arrays</a><br>
+        <a href="actualvideocontent_dominique?video=14">&#10170  While Loop</a><br>
+        <a href="actualvideocontent_dominique?video=14">&#10170  For Loop</a><br>
+        <a href="actualvideocontent_dominique?video=14">&#10170  Arrays Introduction</a><br>
+        <a href="actualvideocontent_dominique?video=14">&#10170  Multidimensional Arrays</a><br>
 
       </div>
     </div>
