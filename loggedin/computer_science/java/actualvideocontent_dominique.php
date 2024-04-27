@@ -107,18 +107,18 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
             $chapitre="4";
             break;
           case '21':
-            $lien="https://www.youtube.com/embed/Wt1iXdxb6JU";
-            $nom_vid="L'instruction foreach en Java";
+            $lien="https://www.youtube.com/embed/t6e5AyYWLFw";
+            $nom_vid="Introduction to Methods in JAVA";
             $chapitre="4";
             break;
           case '22':
-            $lien="https://www.youtube.com/embed/eUOVf6tr8RM";
-            $nom_vid="Les instructions de débranchement (break et continue)";
+            $lien="https://www.youtube.com/embed/pFaB68naMiU";
+            $nom_vid="Advance Overloading";
             $chapitre="4";
             break;
           case '32':
-            $lien="https://www.youtube.com/embed/cfxJOZ-dbMc";
-            $nom_vid="Introduction à la Programmation Orientée Objet et principe d'encapsulation";
+            $lien="https://www.youtube.com/embed/5OrZpBbGKgc";
+            $nom_vid="Introduction to Object oriented programming in JAVA";
             $chapitre="5";
             break;
           case '33':
@@ -253,14 +253,14 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingFive">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                           Chapter 4 : Recursion
+                           Chapter 4 : Method Overloading in JAVA
                         </button>
                       </h2>
                     </div>
                     <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=11">&#10170  Recursion in JAVA</a><br>
-                        <a href="actualvideocontent_dominique.php?video=12">&#10170  Questions on Recursion in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=21">&#10170  Introduction to Methods in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=22">&#10170  Advance Overloading</a><br>
                       </div>
                     </div>
                   </div>';
@@ -271,13 +271,13 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingSix">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                            Chapter 5 : Object Oriented Programming
+                            Chapter 5 : Concepts of Object Oriented Programming
                         </button>
                       </h2>
                     </div>
                     <div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=13">&#10170  Introduction to OOP in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=32">&#10170 Introduction to Object oriented programming in JAVA</a><br>
                       </div>
                     </div>
                   </div>';

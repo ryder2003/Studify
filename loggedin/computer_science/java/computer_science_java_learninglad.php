@@ -33,11 +33,8 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
 
   </ol>
 </nav>
-<!-- the actual content of this course ( apprendre a programmer avec java dominique liard )
-     liste des chapitres-->
-
   <div class="accordion" id="accordionExample">
-	<!-- Détails chapitre 0 -->
+	
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
@@ -93,7 +90,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 3 -->
+ 
   <div class="card">
     <div class="card-header" id="headingFour">
       <h2 class="mb-0">
@@ -110,7 +107,8 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       </div>
     </div>
   </div>
-  <!-- Détails chapitre 4 -->
+
+  
   <div class="card">
     <div class="card-header" id="headingFive">
       <h2 class="mb-0">

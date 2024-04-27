@@ -40,8 +40,8 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       <div class="card-body">
         <p class="card-text" >Learn programming with Java</p>
 
-        <p class="card-text details" >Language : English</p>
-        <p class="card-text details" >Tutor : Chirag Jain</p>
+        <p class="card-text details" >Language : Hinglish</p>
+        <p class="card-text details" >Tutor : Code With Harry</p>
 
       </div>
       <a href="computer_science/java/description_dominique.php" class="btn btn-primary" target="_blank">View Description !</a><br>
@@ -54,7 +54,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
         <p class="card-text" >Learn Java Programming | Video Tutorial for Beginners</p>
 
         <p class="card-text details" >Language : English</p>
-        <p class="card-text details" >Tutor : Raman Bir Singh </p>
+        <p class="card-text details" >Tutor : Learning Lad </p>
       </div>
       <a href="computer_science/java/description_learninglad.php" class="btn btn-primary" target="_blank">View Description !</a><br>
       <a href="computer_science/java/computer_science_java_learninglad.php" class="btn btn-primary">View Course !</a>
@@ -65,7 +65,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       <div class="card-body">
         <p class="card-text">Java Programs For Practice</p>
         <p class="card-text details">Language : English</p>
-        <p class="card-text details ">Tutor : Chirag Jain </p>
+        <p class="card-text details ">Tutor : Alex Lee </p>
       </div>
       <a href="computer_science/java/description_alexlee.php" class="btn btn-primary" target="_blank">View Description !</a><br>
       <a href="computer_science/java/computer_science_java_alexlee.php" class="btn btn-primary">View Course !</a>
