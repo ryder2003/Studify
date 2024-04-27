@@ -523,7 +523,7 @@
                   $msgClass = 'alert-danger';
                 } else {
                   // Passed
-                  $toEmail = 'support@lacademy.com';
+                  $toEmail = 'support@Studify.com';
                   $body = $subject.'<h4>Name</h4><p>'.$name.'</p>
                     <h4>Email</h4><p>'.$email.'</p>
                     <h4>Message</h4><p>'.$message.'</p>';
