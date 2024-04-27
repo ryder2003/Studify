@@ -32,48 +32,48 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
       if (isset($_GET['video'])){
         switch ($_GET['video']) {
           case '1':
-            $lien="https://www.youtube.com/embed/pXaaacSkPqc";
-            $nom_vid="Préparation de votre environnement de développement Java";
+            $lien="https://www.youtube.com/embed/ntLJmHOJ0ME";
+            $nom_vid="Introduction To Java and Installing IDE + JDK";
             $chapitre="0";
             break;
           case '2':
-            $lien="https://www.youtube.com/embed/lO_n1bFXOdQ";
-            $nom_vid="Votre première application Java (Hello World)";
+            $lien="https://www.youtube.com/embed/zIdg7hkqNE0";
+            $nom_vid="Basic Structure of JAVA Program";
             $chapitre="0";
             break;
           case '3':
-            $lien="https://www.youtube.com/embed/xiikhWw3814";
-            $nom_vid="Compilation et portabilité des codes JAVA";
+            $lien="https://www.youtube.com/embed/X0zdAG7gfgs";
+            $nom_vid="Variables and Data Types in JAVA";
             $chapitre="0";
             break;
           case '4':
-            $lien="https://www.youtube.com/embed/aCZ9U-L8luQ";
-            $nom_vid="Manipulation des types entiers en Java";
+            $lien="https://www.youtube.com/embed/b2VJmyarV3I";
+            $nom_vid="Literals in JAVA";
             $chapitre="1";
             break;
           case '8':
-            $lien="https://www.youtube.com/embed/WGykke4np-0";
-            $nom_vid="Le type boolean (booléen)";
+            $lien="https://www.youtube.com/embed/HRfmLqqvzUs";
+            $nom_vid="Getting user input in JAVA";
             $chapitre="1";
             break;
           case '9':
-            $lien="https://www.youtube.com/embed/nz_642sr8uM";
-            $nom_vid="Manipulation de caractères en Java.";
+            $lien="https://www.youtube.com/embed/pnn2VTSr1Ko";
+            $nom_vid="Operators, Types of Operators and Expressions in JAVA";
             $chapitre="1";
             break;
           case '10':
-            $lien="https://www.youtube.com/embed/DMPKKw7X3lg";
-            $nom_vid="Utilisation de chaînes de caractères en Java";
+            $lien="https://www.youtube.com/embed/vh16INx13h4";
+            $nom_vid="Associavity of Operators in JAVA";
             $chapitre="1";
             break;
           case '13':
-            $lien="https://www.youtube.com/embed/BhNj3KqOpLI";
-            $nom_vid="Les tableaux Java";
+            $lien="https://www.youtube.com/embed/xGsUs3XQ0t0";
+            $nom_vid="Data Type of Expressions and Increment/Decrement Operators";
             $chapitre="1";
             break;
           case '14':
-            $lien="https://www.youtube.com/embed/zvMAMrkMjME";
-            $nom_vid="Définition d'un type énuméré.";
+            $lien="https://www.youtube.com/embed/tem1bKt2Osc";
+            $nom_vid=" Strings";
             $chapitre="1";
             break;
           case '5':
@@ -159,7 +159,9 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
     <li class="breadcrumb-item" ><a href="../../../loggedin.php" style="color:white;font-size:bold;">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page"><a href="../../computer_science.php" style="color:white;">Computer Science</a></li>
     <li class="breadcrumb-item active" aria-current="page"><a href="../../computer_science_java.php" style="color:white;">Java</a></li>
-    <li class="breadcrumb-item active" aria-current="page"><a href="computer_science_java_dominique.php" style="color:white;">Apprendre la programmation avec JAVA</a></li>
+    <li class="breadcrumb-item active" aria-current="page"><a href="computer_science_java_dominique.php" style="color:white;"> Learn programming with JAVA
+
+</a></li>
     <li class="breadcrumb-item active" aria-current="page" style="color:white;"><?php echo $nom_vid ?></li>
   </ol>
 </nav>
@@ -182,16 +184,16 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingOne">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                          Chapitre 0 : Introduction
+                          Chapter 0 : Introduction
                         </button>
                       </h2>
                     </div>
 
                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=1">&#10170  Préparation de l\'environnement de développement JAVA</a><br>
-                        <a href="actualvideocontent_dominique.php?video=2">&#10170  Premiére application JAVA</a><br>
-                        <a href="actualvideocontent_dominique.php?video=3">&#10170  Compilation et portabilité des codes JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=1">&#10170  Introduction To Java and Installing IDE + JDK</a><br>
+                        <a href="actualvideocontent_dominique.php?video=2">&#10170  Basic Structure of JAVA Program</a><br>
+                        <a href="actualvideocontent_dominique.php?video=3">&#10170  Variables and Data Types in JAVA</a><br>
                       </div>
                     </div>
                   </div>';
@@ -202,18 +204,18 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingTwo">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                          Chapitre 1 : Manipulation des types de données
+                          Chapter 1 : Understanding Basic concepts of JAVA
                         </button>
                       </h2>
                     </div>
                     <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
                       <div class="card-body">
-                        <a href="actualvideocontent_dominique.php?video=4">&#10170  Manipulation des types entiers en Java</a><br>
-                        <a href="actualvideocontent_dominique.php?video=8">&#10170  Le type boolean (booléen)</a><br>
-                        <a href="actualvideocontent_dominique.php?video=9">&#10170  Manipulation de caractères en Java.</a><br>
-                        <a href="actualvideocontent_dominique.php?video=10">&#10170  Utilisation de chaînes de caractères en Java</a><br>
-                        <a href="actualvideocontent_dominique.php?video=13">&#10170  Les tableaux Java</a><br>
-                        <a href="actualvideocontent_dominique.php?video=14">&#10170  Définition d\'un type énuméré.</a><br>
+                        <a href="actualvideocontent_dominique.php?video=4">&#10170  Literals in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=8">&#10170  Getting user input in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=9">&#10170  Operators, Types of Operators and Expressions in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=10">&#10170  Associavity of Operators in JAVA</a><br>
+                        <a href="actualvideocontent_dominique.php?video=13">&#10170  Data Type of Expressions and Increment/Decrement Operators</a><br>
+                        <a href="actualvideocontent_dominique.php?video=14">&#10170  Strings</a><br>
                       </div>
                     </div>
                   </div>';
@@ -224,7 +226,7 @@ integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7
                     <div class="card-header" id="headingThree">
                       <h2 class="mb-0">
                         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                          Chapitre 2 : Operateur
+                          Chaptere 2 : 
                         </button>
                       </h2>
                     </div>
