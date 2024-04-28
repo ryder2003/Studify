@@ -82,7 +82,7 @@
 
             <div class="mb-5">
               <h3 class="text-black">Course Description</h3>
-              <p>Beginners guide to learning c++ programming language .</p>
+              <p>Beginners guide to learn C++ Programming Language in Hinglish Language.</p>
             </div>
 
             <div class="pt-5">
