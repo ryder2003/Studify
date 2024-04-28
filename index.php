@@ -384,7 +384,7 @@
               <img src="images/person_1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
                 <h3 class="text-black">Raman Bir Singh</h3>
-                <p class="position">App Developer</p>
+                <p class="position">App Developer & Competitive Programmer</p>
                 <p>Made over 10 projects with 2 years of experience, taught over 500 students.</p>
               </div>
             </div>
@@ -633,9 +633,9 @@
           <div class="col-md-12">
             <div class="border-top pt-5">
             <p>
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+      
         Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        
       </p>
             </div>
           </div>
